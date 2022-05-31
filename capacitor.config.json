@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Cascaron",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
